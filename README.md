@@ -10,7 +10,7 @@ what it takes to check.
 option-market metrics predict short-horizon stock returns? Walk-forward
 evaluation with multiple-testing corrections, a volatility positive control,
 and a power analysis done before the fact rather than after. First-author
-manuscript under review at *Borsa Istanbul Review*.
+manuscript under review at *Financial Innovation*.
 
 **[benchmark-zoo](https://github.com/0xpinara/benchmark-zoo)** —
 Multiple-testing corrections with a null distribution you measure instead of
